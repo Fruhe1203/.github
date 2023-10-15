@@ -11,7 +11,7 @@
 - Update [File name]:[Number of line]
 - Fix [File name] [Issue link]
 ## Rules for Naming Repositories
-- [The name of repo] - [Type of Project]
+- [The name of repo]-[Type of Project]
 ### Types
 - Library
 - Framework
