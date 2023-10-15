@@ -10,3 +10,13 @@
 - Add [File name] [Path]
 - Update [File name]:[Number of line]
 - Fix [File name] [Issue link]
+## Rules for Naming Repositories
+- [The name of repo] - [Type of Project]
+### Types
+- Library
+- Framework
+- Website
+- Webapp
+- Software
+- Plugin
+- (Languages e.g.Python,HTML)
