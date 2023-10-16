@@ -1,7 +1,5 @@
 ## Welcome
 「Nova」は、スキル向上のためにフロントエンド開発に取り組んでいます。<br>
-第一言語：日本語 <br>
-第二言語：英語 <br>
 ![banner](https://github.com/Nova1203/.github/assets/138958366/3fafe354-bdb1-4690-be25-ddc338503f05)
 ## Name rules
 - Normal - Nova
