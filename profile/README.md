@@ -8,6 +8,7 @@
 - Other - Nova
 ## Commit messages rules
 - Add [File name] [Path]
+- Delete [File name]
 - Update [File name]:[Number of line]
 - Fix [File name] [Issue link]
 ## Rules for Naming Repositories
