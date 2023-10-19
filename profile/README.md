@@ -14,11 +14,13 @@
 - Hoge - (Small changes that don't even require thinking about the commit message)
 ## Rules for Naming Repositories
 - [The name of repo]-[Type of Project]
-### Types
-- Library
-- Framework
-- Website
-- Webapp
-- Software
-- Plugin
+## Types
+- Library(lib)
+- Framework(frm)
+- Website(wes)
+- Webapp(wep)
+- Software(sfw)
+- Plugin(plu)
 - (Languages e.g.Python,HTML)
+## Group ID
+- org.nova.[Project type].[Project name]
