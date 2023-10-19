@@ -11,7 +11,7 @@
 - Delete [File name]
 - Update [File name]:[Number of line]
 - Fix [File name] [Issue link]
-- Ah - (Small changes that don't even require thinking about the commit message)
+- Hoge - (Small changes that don't even require thinking about the commit message)
 ## Rules for Naming Repositories
 - [The name of repo]-[Type of Project]
 ### Types
