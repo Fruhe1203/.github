@@ -1,5 +1,5 @@
 ## Welcome
-「Nova」は、スキル向上のためにフロントエンド開発に取り組んでいます。<br>
+「Nova」は、スキル向上のために開発に取り組んでいます。<br>
 ![banner](https://github.com/Nova1203/.github/assets/138958366/3fafe354-bdb1-4690-be25-ddc338503f05)
 ## Name rules
 - Normal - Nova
