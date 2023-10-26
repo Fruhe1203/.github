@@ -1,5 +1,5 @@
 ## Welcome
-「Nova」は、スキル向上のために開発に取り組んでいます。<br>
+「Waterfall」は、スキル向上のために開発に取り組んでいます。<br>
 ![banner](https://github.com/Nova1203/.github/assets/138958366/3fafe354-bdb1-4690-be25-ddc338503f05)
 ## Rules of Nova's name
 - Normal - Nova
