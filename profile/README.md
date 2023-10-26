@@ -1,6 +1,6 @@
 ## Welcome
 「Waterfall」は、スキル向上のために開発に取り組んでいます。<br>
-![banner](https://github.com/Nova1203/.github/assets/138958366/3fafe354-bdb1-4690-be25-ddc338503f05)
+![icon-wide](https://github.com/Waterfall1203/.github/assets/138958366/6b233c5f-2229-4c82-8ca0-a102f820f915)
 ## Rules of Waterfall's name
 - Normal - Waterfall
 - in Code - waterfall
