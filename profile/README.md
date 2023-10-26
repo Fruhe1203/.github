@@ -1,11 +1,11 @@
 ## Welcome
 「Waterfall」は、スキル向上のために開発に取り組んでいます。<br>
 ![banner](https://github.com/Nova1203/.github/assets/138958366/3fafe354-bdb1-4690-be25-ddc338503f05)
-## Rules of Nova's name
-- Normal - Nova
-- in Code - Nova
-- in Github - Nova1203
-- Other - Nova
+## Rules of Waterfall's name
+- Normal - Waterfall
+- in Code - waterfall
+- in Github - Waterfall1203
+- Other - Waterfall
 ## Rules of Commit messages
 - Add [File name] [Path]
 - Delete [File name]
@@ -23,4 +23,4 @@
 - Plugin(plu)
 - (Languages e.g.Python,HTML)
 ## Group ID
-- org.nova.[Project type].[Project name]
+- org.waterfall.[Project type].[Project name]
