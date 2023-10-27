@@ -19,8 +19,8 @@
 - Framework(frm)
 - Website(wes)
 - Webapp(wep)
-- Software(sfw)
-- Plugin(plu)
+- Software(sft)
+- Plugin(plg)
 - (Languages e.g.Python,HTML)
 ## Group ID
 - org.waterfall.[Project type].[Project name]
