@@ -1,6 +1,7 @@
 ## Welcome
 We want to improve our skills. <br>
-![icon-wide](https://github.com/Waterfall1203/.github/assets/138958366/6b233c5f-2229-4c82-8ca0-a102f820f915)
+![icon-wide](https://github.com/Waterfall1203/.github/assets/138958366/c8af62fc-eae3-4639-b862-be795a9b9c22)
+
 ## Rules of Waterfall's name
 - Normal - Waterfall
 - in Code - waterfall
