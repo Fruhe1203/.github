@@ -22,6 +22,7 @@ We want to improve our skills. <br>
 - Webapp(wep)
 - Software(sft)
 - Plugin(plg)
+- System(sym)
 - (Languages e.g.Python,HTML)
 ## Group ID
 - org.waterfall.[Project type].[Project name]
