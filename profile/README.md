@@ -8,7 +8,7 @@ We want to improve our skills. <br>
 - in Github - Fruhe1203
 - Other - Fruhe
 ## Rules of Commit messages
-- Add [File name] [Path]
+- Add [File name]
 - Delete [File name]
 - Update [File name]:[Number of line]
 - Fix [File name] [Issue link]
