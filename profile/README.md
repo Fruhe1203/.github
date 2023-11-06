@@ -1,12 +1,12 @@
 ## Welcome
 We want to improve our skills. <br>
-![icon-wide](https://github.com/Waterfall1203/.github/assets/138958366/a687649c-8ccc-42c1-b726-b212224112f3)
+![icon-wide](https://github.com/Fruhe1203/.github/assets/138958366/bda16473-4f4a-4102-a5a3-1314bc4c7de1)
 
-## Rules of Waterfall's name
-- Normal - Waterfall
-- in Code - waterfall
-- in Github - Waterfall1203
-- Other - Waterfall
+## Rules of Fruhe's name
+- Normal - Fruhe
+- in Code - fruhe
+- in Github - Fruhe1203
+- Other - Fruhe
 ## Rules of Commit messages
 - Add [File name] [Path]
 - Delete [File name]
@@ -23,4 +23,4 @@ We want to improve our skills. <br>
 - System(sym)
 - (Languages e.g.Python,HTML)
 ## Group ID
-- org.waterfall.[Project type].[Project name]
+- org.fruhe.[Project type].[Project name]
