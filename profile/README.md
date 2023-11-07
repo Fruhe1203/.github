@@ -11,10 +11,10 @@ Our skills are still in their infancy. <br>
 ## Rules
 Rhine has several rules.
 ### Name
-- Normal - Fruhe
-- in Code - fruhe
-- in Github - Fruhe1203
-- Other - Fruhe
+- Normal - Rhine
+- in Code - rhine
+- in Github - Rhine1203
+- Other - Rhine
 ### Commit messages
 - Add [File name]
 - Delete [File name]
