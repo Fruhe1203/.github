@@ -14,7 +14,7 @@ Rhine has several rules.
 - Normal - Rhine
 - in Code - rhine
 - on Github - Rhine1203
-- on Domain - rhine1203
+- on Domain - rhine
 - Other - Rhine
 ### Types
 - Library(lib)
