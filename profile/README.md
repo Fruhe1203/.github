@@ -1,4 +1,4 @@
-# Rhine1203
+# Rhine
 ![icon-wide](https://github.com/Rhine1203/.github/assets/138958366/ce6f1938-0784-4fcd-abee-07aa7b28016c)
 Welcome!!
 
@@ -26,7 +26,7 @@ Rhine has several rules.
 - System(sym)
 - (Languages e.g.Python,HTML)
 ### Group ID
-- org.rhine1203.[Project type].[Project name]
+- net.rhine.[Project type].[Project name]
 ### Coding style
 - Use Google's style guide.
 <br>
