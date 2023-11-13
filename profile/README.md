@@ -13,7 +13,8 @@ Rhine has several rules.
 ### Name
 - Normal - Rhine
 - in Code - rhine
-- in Github - Rhine1203
+- on Github - Rhine1203
+- on Domain - rhine1203
 - Other - Rhine
 ### Types
 - Library(lib)
@@ -25,7 +26,7 @@ Rhine has several rules.
 - System(sym)
 - (Languages e.g.Python,HTML)
 ### Group ID
-- org.rhine.[Project type].[Project name]
+- org.rhine1203.[Project type].[Project name]
 ### Coding style
 - Use Google's style guide.
 <br>
