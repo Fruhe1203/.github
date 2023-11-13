@@ -15,12 +15,6 @@ Rhine has several rules.
 - in Code - rhine
 - in Github - Rhine1203
 - Other - Rhine
-### Commit messages
-- Add [File name]
-- Delete [File name]
-- Update [File name]:[Number of line]
-- Fix [File name] [Issue link]
-- Hoge - (Small changes that don't even require thinking about the commit message)
 ### Types
 - Library(lib)
 - Framework(frm)
