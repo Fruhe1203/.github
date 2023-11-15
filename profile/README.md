@@ -7,7 +7,9 @@ Welcome!!
 We are looking for members. <br>
 All of our projects are **open-source** (MIT). <br>
 Our skills are still in their infancy. <br>
-
+## Colors
+- #00d3ff
+- #00a2fd
 ## Rules
 Rhine has several rules.
 ### Name
