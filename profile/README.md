@@ -30,7 +30,7 @@ Rhine has several rules.
 ### Group ID
 - net.rhine.[Project type].[Project name]
 ### Coding style
-- Use Google's style guide.
+- Use Google's style guide
 <br>
 © 2023 - 2023 Rhine - All Rights Reserved. <br>
 This README was created by Yottaka1203.
