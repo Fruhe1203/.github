@@ -1,5 +1,5 @@
 # Rhine
-![icon-wide](https://github.com/Rhine1203/.github/assets/138958366/ce6f1938-0784-4fcd-abee-07aa7b28016c)
+![icon-wide](https://github.com/rhine1203/.github/assets/138958366/b5678e80-180b-4fe2-af04-043a8e7d1e73)
 Welcome!!
 
 ## About
