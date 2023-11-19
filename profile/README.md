@@ -5,7 +5,6 @@ Welcome!!
 ## About
 **Rhine**(/rɑɪn/ from the Rhine River) is The new development Team. <br>
 We are looking for members. <br>
-All of our projects are **open-source** (MIT). <br>
 Our skills are still in their infancy. <br>
 ## Colors
 - #00d3ff
