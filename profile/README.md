@@ -25,6 +25,7 @@ Rhine has several rules.
 - Software(sft)
 - Plugin(plg)
 - System(sym)
+- Special(spe)
 - (Languages e.g.Python,HTML)
 ### Group ID
 - net.rhine.[Project type].[Project name]
