@@ -28,7 +28,7 @@ Rhine has several rules.
 - Special(spe)
 - (Languages e.g.Python,HTML)
 ### Group ID
-- net.rhine.[Project type].[Project name]
+- net.rhine.[Project type]
 ### Coding style
 - Use Google's style guide
 <br>
