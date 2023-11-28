@@ -31,6 +31,9 @@ Rhine has several rules.
 - net.rhine.[Project type]
 ### Coding style
 - Use Google's style guide
+### Update
+- 1.0.0
+- update.minorupdate.bugfix
 <br>
 © 2023 - 2023 Rhine - All Rights Reserved. <br>
 This README was created by Yottaka1203.
