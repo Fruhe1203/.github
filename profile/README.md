@@ -36,4 +36,7 @@ Rhine has several rules.
 - update.minorupdate.bugfix
 <br>
 © 2023 - 2023 Rhine - All Rights Reserved. <br>
+Most Projects are CC BY-SA <br> <img src="https://github.com/rhine1203/.github/assets/138958366/78fb884f-30fd-45ae-a84f-205ef15f11a0" height="40px">
+
+
 This README was created by Yottaka1203.
