@@ -6,6 +6,7 @@ Welcome!!
 **Rhine**(/rɑɪn/ from the Rhine River) is The new development Team. <br>
 We are looking for members. <br>
 Our skills are still in their infancy. <br>
+<a href="https://www.buymeacoffee.com/rhine1203" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 ## Colors
 - #00d3ff
 - #00a2fd
