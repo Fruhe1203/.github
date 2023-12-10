@@ -27,7 +27,7 @@ Rhine has several rules.
 - Mod(mod)
 - (Languages e.g.Python,HTML)
 ### Group ID
-- net.rhine.[Project type]
+- jp.rhine.[Project type]
 ### Coding style
 - Use Google's style guide
 ### Update
