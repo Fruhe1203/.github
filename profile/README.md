@@ -13,7 +13,7 @@ Rhine has several rules.
 - Normal - Rhine
 - in Code - rhine
 - in Github - Rhine1203
-- in Domain - rhine
+- in Domain - rhine1203
 - Other - Rhine
 ### Types
 - Library(lib)
@@ -30,9 +30,6 @@ Rhine has several rules.
 - com.rhine1203.[Project type]
 ### Coding style
 - Use Google's style guide
-### Update
-- 1.0.0
-- update.minorupdate.bugfix
 <br>
 © 2023 - 2023 Rhine - All Rights Reserved. <br>
 Most Projects are CC BY-SA <br> <img src="https://github.com/rhine1203/.github/assets/138958366/78fb884f-30fd-45ae-a84f-205ef15f11a0" height="40px">
