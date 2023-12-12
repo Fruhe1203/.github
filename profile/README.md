@@ -10,22 +10,21 @@ Welcome!!
 ## Rules
 Rhine has several rules.
 ### Name
-- Normal - Rhine
+- normal - Rhine
 - in Code - rhine
 - in Github - Rhine1203
-- in Domain - rhine1203
+- in Domain - rhine1203(.com)
 - Other - Rhine
 ### Types
-- Library(lib)
-- Framework(frm)
-- Website(wes)
-- Webapp(wep)
-- Software(sft)
-- Plugin(plg)
-- System(sym)
-- Special(spe)
-- Mod(mod)
-- (Languages e.g.Python,HTML)
+- library
+- framework
+- website
+- webapp
+- software
+- plugin
+- system
+- special
+- mod
 ### Group ID
 - com.rhine1203.[Project type]
 ### Coding style
