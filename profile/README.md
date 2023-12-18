@@ -1,7 +1,5 @@
 # Rhine
-![icon-wide](https://github.com/rhine1203/.github/assets/138958366/b5678e80-180b-4fe2-af04-043a8e7d1e73)
-Welcome!!
-
+![rhine-wide-removedbg](https://github.com/rhine1203/.github/assets/138958366/b1ad55c7-c9f5-4058-a7a4-ef395cf06a7c)
 ## About
 **Rhine**(/rɑɪn/ from the Rhine River) is The new development Team. <br>
 ## Colors
